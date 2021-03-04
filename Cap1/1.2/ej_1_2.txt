@@ -1,0 +1,9 @@
+# Como no se indíca se asume que el corredor tuvo la misma velocidad durante toda la
+carrera
+# Se interpreta que la entrada será de la forma (min,s) cada vez hasta (0,0)
+
+1.Ingresar tiempo del corredor
+2. Si el tiempo es 0,0 terminar, sino continuar
+3.Imprimir la entrada ingresada
+4.Imprimir el resultado de 1500/((min*60)+s)
+5. Volver al paso 1
